@@ -1,6 +1,6 @@
 # bitcoin_ticker
 
-A new Flutter project.
+A new Flutter project using API calls.
 
 ## Getting Started
 
